@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\dell\Desktop\各类作业\PB20061281_占一_v1\lab02\lab02源代码\main.cpp(408,50): warning C4244: “+=”: 从“double”转换到“char”，可能丢失数据
+C:\Users\dell\Desktop\各类作业\PB20061281_占一_v1\lab02\lab02源代码\main.cpp(425,50): warning C4244: “+=”: 从“double”转换到“char”，可能丢失数据
+C:\Users\dell\Desktop\各类作业\PB20061281_占一_v1\lab02\lab02源代码\main.cpp(466,53): warning C4244: “+=”: 从“double”转换到“char”，可能丢失数据
+C:\Users\dell\Desktop\各类作业\PB20061281_占一_v1\lab02\lab02源代码\main.cpp(483,53): warning C4244: “+=”: 从“double”转换到“char”，可能丢失数据
+  HuffmanCode.vcxproj -> C:\Users\dell\Desktop\各类作业\PB20061281_占一_v1\lab02\lab02源代码\Debug\HuffmanCode.exe

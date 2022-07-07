@@ -1,0 +1,15 @@
+﻿  Elevator.cpp
+C:\Users\dell\Desktop\各类作业\PB20061281_占一_v1\lab01\lab01源代码\Elevator.cpp(763,12): warning C4552: ”+“: 未使用表达式结果
+C:\Users\dell\Desktop\各类作业\PB20061281_占一_v1\lab01\lab01源代码\Elevator.cpp(786,12): warning C4552: ”-“: 未使用表达式结果
+C:\Users\dell\Desktop\各类作业\PB20061281_占一_v1\lab01\lab01源代码\Elevator.cpp(876,30): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  Human.cpp
+C:\Users\dell\Desktop\各类作业\PB20061281_占一_v1\lab01\lab01源代码\Human.cpp(105,21): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\dell\Desktop\各类作业\PB20061281_占一_v1\lab01\lab01源代码\Human.cpp(106,20): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  main.cpp
+C:\Users\dell\Desktop\各类作业\PB20061281_占一_v1\lab01\lab01源代码\main.cpp(10,10): warning C4101: “stop1”: 未引用的局部变量
+C:\Users\dell\Desktop\各类作业\PB20061281_占一_v1\lab01\lab01源代码\main.cpp(9,17): warning C4101: “stop”: 未引用的局部变量
+  正在生成代码...
+C:\Users\dell\Desktop\各类作业\PB20061281_占一_v1\lab01\lab01源代码\Human.cpp(149): warning C4715: “HumanIn”: 不是所有的控件路径都返回值
+C:\Users\dell\Desktop\各类作业\PB20061281_占一_v1\lab01\lab01源代码\Elevator.cpp(370): warning C4715: “Stop”: 不是所有的控件路径都返回值
+C:\Users\dell\Desktop\各类作业\PB20061281_占一_v1\lab01\lab01源代码\Elevator.cpp(724): warning C4715: “Controller”: 不是所有的控件路径都返回值
+  Elevator.vcxproj -> C:\Users\dell\Desktop\各类作业\PB20061281_占一_v1\lab01\lab01源代码\Debug\Elevator.exe
